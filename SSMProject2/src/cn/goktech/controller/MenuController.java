@@ -14,6 +14,7 @@ import cn.goktech.service.MenuService;
 //ddasdad时a
 @Controller
 public class MenuController {
+	//dad
 	@Resource
 	private MenuService menuServiceImpl;
 	
