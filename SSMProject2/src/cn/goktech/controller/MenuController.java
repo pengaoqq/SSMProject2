@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import cn.goktech.pojo.Menu;
 import cn.goktech.service.MenuService;
 
-//ddasdad
+//ddasdad时
 @Controller
 public class MenuController {
 	@Resource
